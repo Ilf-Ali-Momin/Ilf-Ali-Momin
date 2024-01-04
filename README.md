@@ -5,7 +5,7 @@
 
 <br><p align="center">🚀I'm a passionate individual thriving in the realm of technology. <br>🌐 Currently pursuing my BSCS at DSU, I'm deeply immersed in the world of Blockchain and wield the power of Front-End development. <br>💻 Join me in the MLSA Community @ Microsoft, where innovation and collaboration intersect. Let's code the future together! ✨ </p>
 
-##🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ilfali.momin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilfali.momin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilfali-momin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ilfalimomin) 
 
 # 💻 Tech Stack:
