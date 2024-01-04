@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ilf Ali Momin</h1>
 
 
-<br>
-=======================================================================================<br>
-🚀I'm a passionate individual thriving in the realm of technology. <br>🌐 Currently pursuing my BSCS at DSU, I'm deeply immersed in the world of Blockchain and wield the power of Front-End development. <br>💻 Join me in the MLSA Community @ Microsoft, where innovation and collaboration intersect. Let's code the future together! ✨ 
+<br>🚀I'm a passionate individual thriving in the realm of technology. <br>🌐 Currently pursuing my BSCS at DSU, I'm deeply immersed in the world of Blockchain and wield the power of Front-End development. <br>💻 Join me in the MLSA Community @ Microsoft, where innovation and collaboration intersect. Let's code the future together! ✨ 
 
 
 ## 🌐 Socials:
