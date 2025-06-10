@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ilf Ali Momin</h1> 
 
 
-<br><p align="center">🚀 Aspiring Computer Scientist | Blockchain & Web3 Enthusiast | Software Developer
-
-<br>Passionate about building with Solidity, analyzing data, and solving real-world problems through tech.Former Microsoft Learn Student Ambassador. Always open to collaboration in Web3, data, and dev projects.
-
-<be>Let’s build something impactful! ✨ </p>
+<br><p align="center">🚀 Aspiring Computer Scientist | Blockchain & Web3 Enthusiast | Software Developer<br>Passionate about building with Solidity, analyzing data, and solving real-world problems through tech.Former Microsoft Learn Student Ambassador. Always open to collaboration in Web3, data, and dev projects.<be>Let’s build something impactful! ✨ </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/momin.ilfali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ilfali.momin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ilfali-momin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ilfalim) 
